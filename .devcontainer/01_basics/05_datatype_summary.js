@@ -31,4 +31,3 @@ let myname = "karan"
 
 let anothername = bittu
 
-console
